@@ -1,5 +1,6 @@
 // ⚙️ Configure your API base URL here
-export const BASE_URL = 'http://localhost:8000';
+export const BASE_URL = '16.171.250.148';
+
 
 // ─── Token helpers ────────────────────────────────────────────────────────────
 export function getTokens() {
