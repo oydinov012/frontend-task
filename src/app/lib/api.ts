@@ -1,5 +1,5 @@
 // ⚙️ Configure your API base URL here
-export const BASE_URL = '16.171.250.148';
+export const BASE_URL = 'https://taskapp-1.duckdns.org';
 
 
 // ─── Token helpers ────────────────────────────────────────────────────────────
